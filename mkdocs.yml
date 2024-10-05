@@ -31,7 +31,6 @@ theme:
     - content.action.view
 plugins:
   - search
-  - social:
-      cards_layout: default
+  - social
 # extra_css:
 #   - style.css
