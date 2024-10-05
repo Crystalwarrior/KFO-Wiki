@@ -26,5 +26,5 @@ theme:
   features:
     - content.action.edit
     - content.action.view
-extra_css:
-  - style.css
+# extra_css:
+#   - style.css
