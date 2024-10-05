@@ -2,6 +2,7 @@ site_name: KFO Wiki
 repo_url: https://github.com/Crystalwarrior/KFO-Wiki
 repo_name: Crystalwarrior/KFO-Wiki
 edit_uri: edit/main/docs/
+site_url: https://crystalwarrior.github.io/KFO-Wiki
 nav:
   - Home: index.md
   - For Players:
@@ -24,6 +25,8 @@ theme:
     primary: black
     accent: red
   features:
+    - navigation.top
+    - navigation.instant
     - content.action.edit
     - content.action.view
 # extra_css:
