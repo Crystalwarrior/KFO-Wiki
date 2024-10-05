@@ -1,5 +1,30 @@
 site_name: KFO Wiki
+repo_url: https://github.com/Crystalwarrior/KFO-Wiki
+repo_name: Crystalwarrior/KFO-Wiki
+edit_uri: edit/main/docs/
 nav:
   - Home: index.md
-  - About: about.md
-theme: readthedocs
+  - For Players:
+    - Players Guide: players/about.md
+  - For Game Masters:
+    - Game Masters Guide: game-masters/about.md
+  - For Content Creators:
+    - Content Creators Guide: content-creators/about.md
+  - For Contributors:
+    - Contributors Guide: contributors/about.md
+theme:
+  name: material
+  # This thing will complain about the .ico format but the logo is valid anyway. Can just swap this out later.
+  logo: img/favicon.ico
+  favicon: img/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    scheme: slate
+    primary: black
+    accent: red
+  features:
+    - content.action.edit
+    - content.action.view
+extra_css:
+  - style.css
