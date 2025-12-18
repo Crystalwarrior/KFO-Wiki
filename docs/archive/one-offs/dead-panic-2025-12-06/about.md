@@ -1,5 +1,7 @@
 # Dead Panic - First Host, 2025-12-06
 
+Stranded by a zombie apocalypse, four survivors band together to flee the city they're trapped in.
+
 The first session has been run in a single area!
 
 [YouTube Video](https://youtu.be/VAKqxs8HyBw)
