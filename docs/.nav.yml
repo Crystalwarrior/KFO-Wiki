@@ -3,6 +3,6 @@ sort:
 
 nav:
   - About:
-    - Welcme to KFO: index.md
+    - Welcome to KFO: index.md
     - dummy.md
   - "*"
