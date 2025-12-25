@@ -56,7 +56,7 @@ Does _NOT_ include:
 * 3D Characters
 * Music
 
-#### [📦Download Here!](https://drive.google.com/open?id=1W4FospCaoHM6L5MUCp0hySIb8bk73of-&usp=drive_fs)
+[📦Download Here!](https://drive.google.com/open?id=1W4FospCaoHM6L5MUCp0hySIb8bk73of-&usp=drive_fs)
 
 ---
 
@@ -66,7 +66,7 @@ Last updated: 25-Dec-25
 
 This is all the music used by the server. Includes a massive assortment of songs from various franchises!
 
-#### [📦Download Here!](https://drive.google.com/file/d/1mlzgqcYrcg-TymCt-Uyrub-QqZ0zQlyY/view?usp=sharing)
+[📦Download Here!](https://drive.google.com/file/d/1mlzgqcYrcg-TymCt-Uyrub-QqZ0zQlyY/view?usp=sharing)
 
 ---
 
@@ -76,7 +76,7 @@ Last updated: 25-Dec-25
 
 This includes the heavy-weight 3D Characters used by KFO from games such as Ace Attorney: Dual Destinies, Spirit of Justice, Dai Gyakuten Saiban, etc.!
 
-#### [📦Download Here!](https://drive.google.com/open?id=1cztYe5miC4eSga01xL2wZZLM2w9gZtq-&usp=drive_fs)
+[📦Download Here!](https://drive.google.com/open?id=1cztYe5miC4eSga01xL2wZZLM2w9gZtq-&usp=drive_fs)
 
 ---
 
