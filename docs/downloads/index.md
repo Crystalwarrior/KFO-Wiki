@@ -26,6 +26,7 @@ Each content pack comes as an Archive file, which you can find in the **Content 
 same directory as the .exe and replace anything it asks you to replace.
 
 Helpful gif:
+
 ![Steps shown as a gif](updating.gif)
 
 If the folder does not contain a "base" folder, or the folder is named something else (e.g. base_3D), you can install it as an asset pack instead. To do so:
@@ -38,6 +39,7 @@ If the folder does not contain a "base" folder, or the folder is named something
 6. Select the folder you just extracted!
 
 Helpful gif:
+
 ![Steps shown as a gif](mounting.gif)
 
 ## 📥Content Downloads
@@ -47,12 +49,14 @@ Helpful gif:
 Last updated: 25-Dec-25
 
 This is the minimal download you need to join the server. Includes:
+
 * backgrounds
 * sound files
 * characters (besides 3D ones)
 * evidence
 
-Does _NOT_ include:
+Does *NOT* include:
+
 * 3D Characters
 * Music
 
