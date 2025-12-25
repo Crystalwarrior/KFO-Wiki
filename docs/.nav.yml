@@ -1,8 +1,8 @@
+flatten_single_child_sections: true
 sort:
   sections: mixed
 
 nav:
   - About:
     - Welcme to KFO: index.md
-    - dummy.md
   - "*"

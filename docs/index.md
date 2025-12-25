@@ -5,3 +5,5 @@ Killing Fever Online is a server designed for hosting role-plays of all kinds! (
 For the [KFO website, click here](https://crystalwarrior.github.io/KFO-website/).
 
 This wiki's purpose is to serve as the Killing Fever Online knowledge base, documenting what we learned as we explore many types and styles of roleplaying formats, to aid the game masters, content creators and players in creation of those formats!
+
+## New to KFO? Head to the [Downloads](downloads/index.md) page to get started!
