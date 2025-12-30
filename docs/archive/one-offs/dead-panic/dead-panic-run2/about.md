@@ -13,4 +13,4 @@ The second session has been run in a single area!
 
 [💻.demo-file](<2025-12-17 22-02-32 UTC.demo>)
 
-[🗃l.og-file](<2025-12-17 22-02-32 UTC.log>)
+[🗃.log-file](<2025-12-17 22-02-32 UTC.log>)
