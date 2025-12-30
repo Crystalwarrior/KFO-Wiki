@@ -1,13 +1,14 @@
 site_name: KFO Wiki
 repo_url: https://github.com/Crystalwarrior/KFO-Wiki
 repo_name: Crystalwarrior/KFO-Wiki
-edit_uri: edit/main/docs/
+edit_uri: https://prose.io/#Crystalwarrior/KFO-Wiki/edit/main/docs/
 site_url: https://crystalwarrior.github.io/KFO-Wiki
 theme:
   name: material
   # This thing will complain about the .ico format but the logo is valid anyway. Can just swap this out later.
   logo: img/favicon.ico
   favicon: img/favicon.ico
+  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
   palette:
@@ -21,6 +22,7 @@ theme:
     - content.code.annotate
     - content.action.edit
     - content.action.view
+    - content.action.new
 plugins:
   - search
   - social
