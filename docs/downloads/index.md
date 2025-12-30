@@ -66,11 +66,13 @@ Does *NOT* include:
 
 ### 🔊Music Pack
 
-Last updated: 25-Dec-25
+Last updated: 30-Dec-25
 
 This is all the music used by the server. Includes a massive assortment of songs from various franchises!
 
 [📦Download Here!](https://drive.google.com/file/d/1mlzgqcYrcg-TymCt-Uyrub-QqZ0zQlyY/view?usp=sharing)
+
+(Note: if you downloaded this pack since before 30th, if you don't see [ILYCS] songs or /musiclist drrp_daily songs, [📦Download the Patch](https://drive.google.com/open?id=1PF3sSAhbqN9Oeay_T4mweFxX0ZcM4PeL&usp=drive_fs).)
 
 ---
 
