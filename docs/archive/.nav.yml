@@ -2,10 +2,6 @@ flatten_single_child_sections: true
 nav:
   - index.md
   - One-Offs:
-    - about.md
-    - Dead Panic:
-    - about.md
     - "one-offs/*/"
   - Weeklies:
-    - about.md
     - "weeklies/*/"
